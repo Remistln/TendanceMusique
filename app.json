@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Tendances_Musique",
+    "slug": "Tendances_Musique",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Tendances_Musique"
+}
